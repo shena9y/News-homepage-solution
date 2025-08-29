@@ -70,7 +70,7 @@ a {
   width: 70%;
 }
 .content .left .photo-section {
-  background-image: url(/assets/images/image-web-3-desktop.jpg);
+  background-image: url(assets/images/image-web-3-desktop.jpg);
   background-position: top left;
   background-repeat: no-repeat;
   background-size: cover;
@@ -293,3 +293,4 @@ a {
 .active {
   display: block !important;
 }
+
