@@ -70,7 +70,7 @@ a {
   width: 70%;
 }
 .content .left .photo-section {
-  background-image: url(assets/images/image-web-3-desktop.jpg);
+  background-image: url(./assets/images/image-web-3-desktop.jpg);
   background-position: top left;
   background-repeat: no-repeat;
   background-size: cover;
@@ -224,7 +224,7 @@ a {
     width: 100%;
   }
   .content .left .photo-section {
-    background-image: url(assets/images/image-web-3-mobile.jpg);
+    background-image: url(./assets/images/image-web-3-mobile.jpg);
     background-size: 100% 100%;
   }
   .content .left .info-section {
@@ -293,4 +293,5 @@ a {
 .active {
   display: block !important;
 }
+
 
