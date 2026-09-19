@@ -1,4 +1,4 @@
-# 📰 News Homepage
+﻿# 📰 News Homepage
 
 My solution to the [News Homepage challenge](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl) on [Frontend Mentor](https://www.frontendmentor.io) — a modern, responsive news landing page featuring a hero article, a "New" articles sidebar, and a numbered popular-articles section.
 
@@ -6,6 +6,8 @@ My solution to the [News Homepage challenge](https://www.frontendmentor.io/chall
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Challenge-3e54a3?style=for-the-badge)
+
+🔗 **Live Demo:** [https://shena9y.github.io/News-homepage-solution/](https://shena9y.github.io/News-homepage-solution/)
 
 ## ✨ Features
 
@@ -34,6 +36,8 @@ News-homepage-solution/
 
 ## 🚀 Getting Started
 
+**Try it live:** [https://shena9y.github.io/News-homepage-solution/](https://shena9y.github.io/News-homepage-solution/) — no installation needed!
+
 1. Clone the repository
    ```bash
    git clone https://github.com/shena9y/News-homepage-solution.git
@@ -44,6 +48,9 @@ News-homepage-solution/
 
 ![Design Preview](preview.jpg)
 
+🔗 **Live Demo:** [https://shena9y.github.io/News-homepage-solution/](https://shena9y.github.io/News-homepage-solution/)
+
 ## 📝 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
